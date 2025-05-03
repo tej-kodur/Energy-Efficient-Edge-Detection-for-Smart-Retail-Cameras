@@ -118,4 +118,3 @@ python scripts/eval_metrics.py     --rpc_ids data/rpc/rpc_ids.txt     --rpc_img_
 ## 6 · License  
 Released under the **MIT License** — free for research & commercial use.
 
-<p align="center">Made with 🤍 for <b>CS 497: Embedded Deep‑Vision</b></p>
