@@ -1,7 +1,5 @@
 <!-- shields -->
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tej-kodur/Energy-Efficient-Edge-Detection-for-Smart-Retail-Cameras?color=brightgreen">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/tej-kodur/Energy-Efficient-Edge-Detection-for-Smart-Retail-Cameras/ci.yml?label=CI&logo=github&style=for-the-badge">
   <img alt="License" src="https://img.shields.io/github/license/tej-kodur/Energy-Efficient-Edge-Detection-for-Smart-Retail-Cameras?style=for-the-badge">
 </p>
 
