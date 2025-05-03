@@ -1,0 +1,16 @@
+name: edge-retail
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch=2.1
+  - torchvision
+  - cudatoolkit=11.8
+  - opencv
+  - pip
+  - pip:
+      - pycocotools
+      - thop
+      - tqdm
+      - matplotlib
