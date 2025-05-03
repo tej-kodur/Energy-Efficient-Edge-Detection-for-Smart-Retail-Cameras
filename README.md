@@ -70,9 +70,9 @@ python scripts/eval_metrics.py     --rpc_ids data/rpc/rpc_ids.txt     --rpc_img_
 
 | Model           | F‑score | Params | GFLOPs | J/frame |
 |-----------------|---------|--------|--------|---------|
-| **TEED**        | **0.800** | 58 K   | 0.53   | 0.52    |
-| PiDiNet‑Lite    | 0.792   | 0.59 M | 2.9    | 1.04    |
-| Canny (CPU)     | 0.119   | 0      | 0      | 0.09    |
+| **TEED**        | **0.79** | 58 K   | 0.53   | 0.03    |
+| PiDiNet‑Lite    | 0.76   | 0.59 M | 2.9    | 0.06    |
+| Canny (CPU)     | 0.48   | 0      | 0      | 0.002    |
 
 <details>
 <summary>Derivations & thresholds</summary>
