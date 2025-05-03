@@ -95,7 +95,7 @@ python scripts/eval_metrics.py     --rpc_ids data/rpc/rpc_ids.txt     --rpc_img_
   <td align="center"><b>F1 vs energy</b><br><img src="results/figs/f1_score_vs_energy.png" width="360"></td>
 </tr>
 <tr>
-  <td colspan="2" align="center"><b>Metric breakdown</b><br><img src="results/figs/evaluation_scores.png" width="720"></td>
+  <td colspan="2" align="center"><b>Metric breakdown</b><br><img src="results/figs/evaluation-scores.png" width="720"></td>
 </tr>
 </table>
 
